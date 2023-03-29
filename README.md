@@ -1,4 +1,4 @@
-# Fitting-and-Sampling-in-Python
+# Fitting-and-Sampling-in-Python with distfit package and fitter package for goodness of fit test
 Fitting distributions in Python for eyeballing data using the distfit package for estimating close fit theoretical distributions. Checking Goodness of Fits with the fitter package. 
 
 distfit package documentation:
